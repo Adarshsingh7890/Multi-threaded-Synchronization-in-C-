@@ -1,0 +1,12 @@
+Initializing Synchronizer with path_exp 
+Creating 2 Caregiver threads and 2 Children threads
+Caregiver threads and Children threads scheduled!
+CaregiverArrive Thread 0 Entry 3.000104143 Start 3.000104732 End 4.000161768
+CaregiverArrive Thread 1 Entry 5.000164343 Start 5.000165087 End 6.000221825
+ChildArrive Thread 0 Entry 1.000155638 Start 4.000169741 End 5.000208884
+ChildArrive Thread 1 Entry 2.000152203 Start 4.000162959 End 5.000207907
+CaregiverLeave Thread 0 Entry 6.000122688 Start 6.000123906 End 7.000189750
+ChildLeave Thread 0 Entry 7.000189747 Start 7.000190488 End 8.000279297
+ChildLeave Thread 1 Entry 8.000175556 Start 8.000176568 End 9.000295215
+CaregiverLeave Thread 1 Entry 6.000122675 Start 9.000333909 End 10.000339952
+Caregiver Threads and Children threads completed!

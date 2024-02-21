@@ -1,0 +1,19 @@
+Initializing Synchronizer with path_exp path append;remove end
+Creating 1 Remove and 1 Append Tasks
+Append and Remove tasks created Successfully!
+Wrote 1804289383
+append Thread 1 Entry 1.000116184 Start 1.000116851 End 2.000238942
+Read 1804289383
+remove Thread 0 Entry 0.000097146 Start 2.000264504 End 3.000351132
+Append and Remove Tasks completed!
+Creating 2 Remove and 2 Append Tasks
+Append and Remove tasks created Successfully!
+Wrote 846930886
+append Thread 2 Entry 5.000166962 Start 5.000167808 End 6.000288379
+Read 846930886
+remove Thread 0 Entry 0.000088443 Start 6.000310955 End 7.000426897
+Wrote 1681692777
+append Thread 3 Entry 5.000175199 Start 7.000449263 End 8.000568057
+Read 1681692777
+remove Thread 1 Entry 1.000107185 Start 8.000591638 End 9.000709133
+Append and Remove Tasks completed!

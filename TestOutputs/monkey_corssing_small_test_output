@@ -1,0 +1,15 @@
+Initializing Synchronizer with path_exp
+5 east monkeys and 5 west monkeys
+Creating 5 East monkey threads and 5 West monkey threads
+East monkey threads and West monkey threads scheduled!
+WestCrossing Thread 5 Entry 1.000228725 Start 1.000230201 End 2.000285453
+WestCrossing Thread 6 Entry 2.000253886 Start 2.000254589 End 3.000309196
+WestCrossing Thread 7 Entry 3.000276774 Start 3.000277758 End 4.000333934
+WestCrossing Thread 8 Entry 4.000306737 Start 4.000307486 End 5.000365031
+WestCrossing Thread 9 Entry 5.000327547 Start 5.000328497 End 6.000385274
+EastCrossing Thread 0 Entry 2.000107722 Start 6.000396640 End 7.000455144
+EastCrossing Thread 4 Entry 6.000199002 Start 6.000418045 End 7.000473819
+EastCrossing Thread 2 Entry 4.000147989 Start 6.000409367 End 7.000463948
+EastCrossing Thread 3 Entry 5.000168763 Start 6.000415069 End 7.000470630
+EastCrossing Thread 1 Entry 3.000127399 Start 6.000404012 End 7.000461099
+East monkey threads and West monkey threads completed!

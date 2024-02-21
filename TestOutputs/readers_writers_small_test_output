@@ -1,0 +1,25 @@
+Initializing Synchronizer with path_exp path {read}+write end
+Creating 3 Readers and 0 Writers
+Readers and Writers created Successfully!
+Read 1984210012 from 95
+Read 1141616124 from 70
+read Thread 0 Entry 1.000198348 Start 1.000214233 End 2.000289371
+Read 1369133069 from 34
+read Thread 1 Entry 2.000233438 Start 2.000240948 End 3.000542200
+read Thread 2 Entry 3.000189795 Start 3.000193243 End 4.000264243
+Read and Write Tasks completed!
+Creating 3 Readers and 3 Writers
+Read 1374344043 from 78
+Readers and Writers created Successfully!
+read Thread 0 Entry 0.000122556 Start 0.000129622 End 2.000286792
+Wrote 1892066601 into 67
+write Thread 3 Entry 1.000332347 Start 2.000317975 End 4.000464029
+Read 1749698586 from 97
+Read 1681692777 from 2
+read Thread 1 Entry 5.000362931 Start 5.000365685 End 6.000429211
+read Thread 2 Entry 5.000434123 Start 5.000438010 End 6.000569530
+Wrote 603570492 into 17
+write Thread 4 Entry 6.000281250 Start 6.000586113 End 8.000701418
+Wrote 660260756 into 52
+write Thread 5 Entry 7.001123136 Start 8.000802194 End 9.001081527
+Read and Write Tasks completed!
